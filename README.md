@@ -37,9 +37,11 @@ int eulersTotientFunction(int n) {
                   	// ========[ 공약수 구하는 로직 ]======
                   	//	
 		            for (int j = 1; j <= i; j++) {
+			    
                            // n의 약수     &&  i의 약수 
 		            	 if (n % j == 0 && i % j == 0) count++;
 		            }
+			    
                     // 공약수의 개수가 1개면 최대공약수가 1인 서로소 일 수 밖에 없음
 		            if (count == 1) total++;
 		        }
