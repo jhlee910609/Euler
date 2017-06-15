@@ -38,7 +38,7 @@ int eulersTotientFunction(int n) {
 		            int count = 0;
                   	
                   	// ========[ 공약수 구하는 로직 ]======
-                  	//	
+             
 		            for (int j = 1; j <= i; j++) {
 			    
                            // n의 약수     &&  i의 약수 
