@@ -23,7 +23,7 @@
 
 ```java
 int eulersTotientFunction(int n) {
-	    		// n과 서로소인 정수를 저장하는 count
+	    		// n과 서로소인 정수 개수를를 저장하는 total
 		        int total = 0;
   
   				// n이 1일 때, 1의 약수는 1 밖에 없으니 1 리턴한다. 
