@@ -7,6 +7,9 @@
 
 ### 문제 : 오일러의 피(phi)함수를 활용하여 phi(n)의 값을 구하라
 
+![](http://cfs6.blog.daum.net/image/22/blog/2007/06/14/22/34/467143cd227df&filename=20070612095807_532_1.jpg)
+
+
 ### 1. 오일러의 피함수
 
 > **오일러 φ 함수**(Euler φ 函數, [영어](https://ko.wikipedia.org/wiki/%EC%98%81%EC%96%B4): Euler’s phi (totient) function)는 1부터 n까지의 양의 [정수](https://ko.wikipedia.org/wiki/%EC%A0%95%EC%88%98) 중에 n과 [서로소](https://ko.wikipedia.org/wiki/%EC%84%9C%EB%A1%9C%EC%86%8C_(%EC%88%98%EB%A1%A0))인 것의 개수를 나타내는 함수 [출처 : 위키피디아]
